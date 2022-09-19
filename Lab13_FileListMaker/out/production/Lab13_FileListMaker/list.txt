@@ -1,6 +1,0 @@
-text.txt
-testing
-note
-for
-this
-lab
